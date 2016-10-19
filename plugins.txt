@@ -19,3 +19,5 @@ sidebar-link
 warnings
 workflow-aggregator
 ws-cleanup
+test-stability
+subversion
